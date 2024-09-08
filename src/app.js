@@ -31,7 +31,7 @@ function HelloUsers({name , emoji}){
             textAlign: "center",
             color:"red",
             fontSize: "15px",
-            backgroundColor: "tomato"}}>
+            backgroundColor: "yellow"}}>
             <h1>Hello {name} {emoji}</h1>
         </div>
     );
