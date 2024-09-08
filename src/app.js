@@ -29,9 +29,9 @@ function HelloUsers({name , emoji}){
     return (
         <div style={{fontFamily: "sans-serif",
             textAlign: "center",
-            color:"blue",
-            fontSize: "20px",
-            backgroundColor: "lightblue"}}>
+            color:"red",
+            fontSize: "15px",
+            backgroundColor: "tomato"}}>
             <h1>Hello {name} {emoji}</h1>
         </div>
     );
